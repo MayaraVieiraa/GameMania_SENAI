@@ -2,8 +2,6 @@
 
 Website de uma loja de eletrônicos e produtos para o público gamer, desenvolvido como projeto de curso. O site conta com uma home page, vitrine de produtos e sistema de login/cadastro funcional.
 
-![Prévia da tela inicial do projeto](https://i.imgur.com/7bLgJzC.png)
-
 ---
 
 ##  STATUS DO PROJETO
@@ -45,8 +43,6 @@ As seguintes ferramentas e tecnologias foram usadas na construção do projeto:
 ---
 
 ## 👤 AUTORA
-
-Feito por **Mayara Vieira**.
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mayara-vieira-00259926b/)
 [<img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />](https://github.com/MayaraVieiraa)
