@@ -1,6 +1,6 @@
-# 🎮 GameMania SENAI
+# 🎮 GameMania - SENAI
 
-Website de uma loja de eletrônicos e produtos para o público gamer, desenvolvido como projeto de curso. O site conta com uma home page, vitrine de produtos e sistema de login/cadastro funcional.
+Website de uma loja de eletrônicos e produtos para o público gamer, desenvolvido como projeto do curso de desenvolvimento FullStack do SENAI. O site atualmente conta com uma home page, vitrine de produtos e sistema de login/cadastro funcional.
 
 ---
 
@@ -42,7 +42,7 @@ As seguintes ferramentas e tecnologias foram usadas na construção do projeto:
 
 ---
 
-## 👤 AUTORA
+## 👤 
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mayara-vieira-00259926b/)
 [<img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />](https://github.com/MayaraVieiraa)
