@@ -42,7 +42,13 @@ As seguintes ferramentas e tecnologias foram usadas na construção do projeto:
 
 ---
 
-## 👤 
+### 📫 Vamos conversar!
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mayara-vieira-00259926b/)
-[<img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />](https://github.com/MayaraVieiraa)
+<p align="left">
+  <a href="mailto:m4y4r4vm@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mayara-vieira-00259926b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
